@@ -1,0 +1,11 @@
+name: BetterRTP
+author: Lava
+version: '${version}'
+description: Lets you randomly tp to a location on the map
+main: me.lava.betterrtp.BetterRTP
+api-version: 1.19
+commands:
+  rtp:
+    description: Lets the sender randomly teleport
+    usage: /<command>
+    aliases: wild
